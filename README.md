@@ -6,8 +6,6 @@
 
 ## 📈 Github Stats
 
-<img alt="mukiralad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mukiralad&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" />
-
 <img alt="mukiralad's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mukiralad&theme=prussian" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukiralad&layout=compact&theme=radical" alt="Top Languages" />
